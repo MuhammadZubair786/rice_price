@@ -1,0 +1,93 @@
+export const defaultProducts = [
+  {
+    id: '1',
+    name: '1121 Basmati Rice',
+    category: 'Basmati',
+    description: 'Extra-long grain aromatic Basmati rice, aged for premium quality and exceptional fragrance.',
+    grade: 'Premium',
+    origin: 'Punjab, Pakistan',
+  },
+  {
+    id: '2',
+    name: 'Super Kernel Basmati',
+    category: 'Basmati',
+    description: 'Finest quality Super Kernel Basmati with superior elongation and delicate aroma.',
+    grade: 'Export Grade',
+    origin: 'Punjab, Pakistan',
+  },
+  {
+    id: '3',
+    name: 'PK-386 Basmati',
+    category: 'Basmati',
+    description: 'Traditional Pakistani Basmati variety known for its authentic taste and texture.',
+    grade: 'Grade A',
+    origin: 'Punjab, Pakistan',
+  },
+  {
+    id: '4',
+    name: 'IRRI-6 Long Grain',
+    category: 'Non-Basmati',
+    description: 'High-yield long grain non-Basmati rice ideal for bulk export and commercial use.',
+    grade: 'Standard',
+    origin: 'Sindh, Pakistan',
+  },
+  {
+    id: '5',
+    name: 'IRRI-9 Long Grain',
+    category: 'Non-Basmati',
+    description: 'Premium non-Basmati long grain rice with excellent cooking properties.',
+    grade: 'Export Grade',
+    origin: 'Sindh, Pakistan',
+  },
+  {
+    id: '6',
+    name: '1509 Basmati Rice',
+    category: 'Basmati',
+    description: 'Popular aromatic Basmati variety with excellent grain length after cooking.',
+    grade: 'Premium',
+    origin: 'Punjab, Pakistan',
+  },
+  {
+    id: '7',
+    name: 'Broken Rice',
+    category: 'Non-Basmati',
+    description: 'Quality broken rice suitable for industrial and commercial applications.',
+    grade: 'Industrial',
+    origin: 'Pakistan',
+  },
+  {
+    id: '8',
+    name: 'Parboiled Rice',
+    category: 'Non-Basmati',
+    description: 'Nutrient-rich parboiled rice with enhanced texture and cooking stability.',
+    grade: 'Export Grade',
+    origin: 'Pakistan',
+  },
+]
+
+export const defaultSiteContent = {
+  companyName: 'AR Expo Global',
+  tagline: "Delivering Pakistan's Finest Grain to the World",
+  heroTitle: 'Premium Pakistani Rice Exporter',
+  heroSubtitle:
+    'Your trusted partner for sourcing, processing, and exporting the finest agricultural commodities from Pakistan to the global market.',
+  aboutTitle: 'Welcome to AR Expo Global',
+  aboutParagraphs: [
+    'Established in Pakistan, AR Expo Global is a premier international trading and export company dedicated to delivering the finest agricultural commodities to the global market. Our core specialization lies in the sourcing, processing, and exporting of premium quality Pakistani Rice.',
+    "Pakistan is world-renowned for its fertile lands and exceptional rice varieties, and at AR Expo Global, we ensure that only the highest grades reach our international buyers. From the aromatic and long-grain Basmati rice to high-yield Non-Basmati varieties, our products undergo rigorous quality checks, precise grading, and secure packaging to meet global food safety standards.",
+    'Driven by integrity, reliability, and excellence in logistics, we bridge the gap between Pakistan\'s rich agricultural heritage and global demand. Whether managing complex supply chains or ensuring timely deliveries, AR Expo Global stands as a trusted partner for businesses seeking unmatched quality and professional trade services.',
+    "AR Expo Global – Delivering Pakistan's Finest Grain to the World.",
+  ],
+  contact: {
+    email: 'arexpoglobal@gmail.com',
+    phone: '+923126775579',
+    address: 'Pathan Colony, Opposite My Kitchen Restaurant',
+  },
+  social: {
+    facebook: 'https://www.facebook.com/',
+    twitter: 'https://twitter.com/',
+    linkedin: 'https://www.linkedin.com/in/ar-expo-1b0a08413',
+    instagram: 'https://www.instagram.com/',
+    youtube: 'https://www.youtube.com/',
+  },
+}
